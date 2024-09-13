@@ -20,7 +20,8 @@ The Raspberry Pi circuit has the following modules conected to it: AM2320( senso
 
 Flow of the Python Script
 
-![image](https://github.com/user-attachments/assets/688bad45-73aa-44a7-a812-219df34f020d)
+![image](https://github.com/user-attachments/assets/206e6610-f36b-4bfb-92ec-35a1d427366c)
+
 
 
 ### Database Structure
