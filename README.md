@@ -57,4 +57,14 @@ The DataPythonRaspberryPi table contains information updated every 5 seconds by 
 * User-friendly and intuitive GUI
 
 
+#### Login Page
+
+
+
+
+
+
+
+
+
 
