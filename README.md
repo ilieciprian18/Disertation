@@ -43,9 +43,9 @@ The DataPythonRaspberryPi table contains information updated every 5 seconds by 
 
 ### Android Application
 
-Ability to log in/register/reset password
-Viewing real-time data about the plant
-Continuous monitoring of the plant's condition and sending notifications in case of issues
+* Ability to log in/register/reset password
+* Viewing real-time data about the plant
+* Continuous monitoring of the plant's condition and sending notifications in case of issues
 Uploading a customized care regimen for the selected plant for day/night
 Automatic mode for watering/additional lighting
 Manual mode for setting watering intervals
