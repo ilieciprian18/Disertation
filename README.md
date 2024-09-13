@@ -59,7 +59,7 @@ The DataPythonRaspberryPi table contains information updated every 5 seconds by 
 
 #### Login Page
 
-![Screenshot_2024-09-13-10-00-50-45_2c09c55d223b81c223fa6cb6a059c5be](https://github.com/user-attachments/assets/868ec6bb-046c-4e2a-b58c-b9e2c5146f50)
+<a href="url"><img src="https://github.com/user-attachments/assets/868ec6bb-046c-4e2a-b58c-b9e2c5146f50" align="left" height="48" width="48" ></a>
 
 
 #### Register Page
