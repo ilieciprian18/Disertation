@@ -6,4 +6,6 @@ Here it is a short summary.
 
 ## Hardware Part
 
+The Raspberry Pi circuit has the following modules conected to it: AM2320( sensor for temperature and humidity), BMP280 ( sensor for temperature and atmospheric preassure), BH1750FVI ( sensor for light intensity), resistive soil moisture sensor, resistive rain sensor, water pump, 3VDC Relay, aditional power source, LED, comparator module LM393, BreadBoard, cables.
+
 ## Software Part
