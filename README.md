@@ -26,4 +26,6 @@ Flow of the Python Script
 
 ### Database Structure
 
+The application uses a Firebase real-time database, which is a NoSQL database type. It has two tables stored in JSON format. Another feature is authentication based on unique tokens implemented through Firebase.
+
 ### Android Application
